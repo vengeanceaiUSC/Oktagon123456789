@@ -1,10 +1,12 @@
 # Firm Names
 
+- Advent International
 - Ameriprise Financial, Inc.
 - Anchor Point Capital
 - Apercen Partners
 - Apollo Global Management
 - AQR Capital Management
+- Arlington Capital Partners
 - Bain Capital
 - BlackRock
 - BNY Investments
@@ -12,15 +14,20 @@
 - Carlyle
 - Causeway Capital Management LLC
 - CenterSquare Investment Management
+- CF Private Equity (Commonfund)
 - CIFC Asset Management
 - Citadel
 - Dimensional Fund Advisors
+- DoubleLine Capital LP
 - Fidelity Investments
 - FS Investments
+- GCM Grosvenor
 - Gemspring Capital Management
+- GI Partners
 - Goldman Sachs Asset Management
 - Greenlight Capital
 - Guggenheim Investments
+- H.I.G. Capital
 - Hall Capital Partners LLC
 - J.P. Morgan Asset Management
 - Jane Street
@@ -34,16 +41,19 @@
 - Makena Capital Management, LLC
 - Monomoy Capital Partners
 - Morgan Stanley Investment Management
+- New Mountain Capital
 - Northwood Investors
 - Oaktree Capital Management
 - OMERS Private Equity
 - One Rock Capital Partners
 - Parthenon Capital
 - Partners Group
+- PDT Partners
 - PeakSpan Capital
 - PennyMac Financial Services, Inc.
 - PGIM
 - PIMCO
+- SBJ Capital
 - Sound Point Capital Management, LP
 - Stifel Financial Corp.
 - T. Rowe Price
