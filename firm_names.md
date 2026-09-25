@@ -1,12 +1,14 @@
 # Firm Names
 
 - Advent International
+- Allworth Financial
 - Ameriprise Financial, Inc.
 - Anchor Point Capital
 - Apercen Partners
 - Apollo Global Management
 - AQR Capital Management
 - Arlington Capital Partners
+- Aspect Capital
 - Bain Capital
 - BlackRock
 - BNY Investments
@@ -17,6 +19,7 @@
 - CF Private Equity (Commonfund)
 - CIFC Asset Management
 - Citadel
+- Cohen & Steers
 - Dimensional Fund Advisors
 - DoubleLine Capital LP
 - Fidelity Investments
@@ -34,11 +37,14 @@
 - JMI Equity
 - K1 Investment Management
 - Kayne Anderson
+- Kingswood Capital Management
 - KKR
 - Laniakea Funds
+- Lido Advisors
 - Macquarie Asset Management
 - Magnus Investment Partners
 - Makena Capital Management, LLC
+- Man Group (Man AHL)
 - Monomoy Capital Partners
 - Morgan Stanley Investment Management
 - New Mountain Capital
@@ -54,6 +60,8 @@
 - PGIM
 - PIMCO
 - SBJ Capital
+- Schonfeld Strategic Advisors
+- Shamrock Capital
 - Sound Point Capital Management, LP
 - Stifel Financial Corp.
 - T. Rowe Price
@@ -69,3 +77,4 @@
 - Walton Street Capital, LLC
 - Wellington Management
 - Western Asset Management Company
+- William Blair
