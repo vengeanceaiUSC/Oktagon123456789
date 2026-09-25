@@ -4,6 +4,7 @@
 - Anchor Point Capital
 - Apercen Partners
 - Apollo Global Management
+- AQR Capital Management
 - Bain Capital
 - BlackRock
 - BNY Investments
@@ -11,6 +12,8 @@
 - Carlyle
 - CenterSquare Investment Management
 - CIFC Asset Management
+- Citadel
+- Dimensional Fund Advisors
 - Fidelity Investments
 - FS Investments
 - Gemspring Capital Management
@@ -21,6 +24,7 @@
 - J.P. Morgan Asset Management
 - Jane Street
 - K1 Investment Management
+- Kayne Anderson
 - KKR
 - Laniakea Funds
 - Macquarie Asset Management
