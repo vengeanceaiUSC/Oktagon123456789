@@ -7,9 +7,11 @@
 - Apercen Partners
 - Apollo Global Management
 - AQR Capital Management
+- Ares Management
 - Arlington Capital Partners
 - Aspect Capital
 - Bain Capital
+- Beach Point Capital Management
 - BlackRock
 - BNY Investments
 - Canyon Partners, LLC
@@ -63,6 +65,7 @@
 - PennyMac Financial Services, Inc.
 - PGIM
 - PIMCO
+- Point72
 - SBJ Capital
 - Schonfeld Strategic Advisors
 - Shamrock Capital
@@ -70,12 +73,14 @@
 - Stifel Financial Corp.
 - T. Rowe Price
 - TCW
+- The D. E. Shaw Group
 - The Riverside Company
 - The Vanguard Group
 - TPG
 - TruAmerica Multifamily
 - UBS Asset Management
 - Upfront Ventures
+- Viking Global Investors
 - Vista Equity Partners
 - Volition Capital
 - Walton Street Capital, LLC
