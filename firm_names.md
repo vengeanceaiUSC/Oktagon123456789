@@ -10,6 +10,7 @@
 - BNY Investments
 - Canyon Partners, LLC
 - Carlyle
+- Causeway Capital Management LLC
 - CenterSquare Investment Management
 - CIFC Asset Management
 - Citadel
@@ -23,6 +24,7 @@
 - Hall Capital Partners LLC
 - J.P. Morgan Asset Management
 - Jane Street
+- JMI Equity
 - K1 Investment Management
 - Kayne Anderson
 - KKR
