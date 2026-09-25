@@ -16,9 +16,11 @@
 - Carlyle
 - Causeway Capital Management LLC
 - CenterSquare Investment Management
+- Centura Wealth Advisory
 - CF Private Equity (Commonfund)
 - CIFC Asset Management
 - Citadel
+- City National Rochdale / City National Bank Wealth Management
 - Cohen & Steers
 - Dimensional Fund Advisors
 - DoubleLine Capital LP
@@ -45,6 +47,8 @@
 - Magnus Investment Partners
 - Makena Capital Management, LLC
 - Man Group (Man AHL)
+- Marathon Asset Management
+- Mission Wealth Management, LP
 - Monomoy Capital Partners
 - Morgan Stanley Investment Management
 - New Mountain Capital
