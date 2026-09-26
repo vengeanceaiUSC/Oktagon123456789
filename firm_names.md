@@ -12,6 +12,7 @@
 - Aspect Capital
 - Bain Capital
 - Beach Point Capital Management
+- Bernstein Private Wealth Management (AllianceBernstein)
 - BlackRock
 - BNY Investments
 - Canyon Partners, LLC
@@ -50,10 +51,14 @@
 - Makena Capital Management, LLC
 - Man Group (Man AHL)
 - Marathon Asset Management
+- Mariner Wealth Advisors
 - Mission Wealth Management, LP
 - Monomoy Capital Partners
 - Morgan Stanley Investment Management
 - New Mountain Capital
+- New York Life
+- North Star Resource Group
+- Northwestern Mutual (Southern California & Nevada)
 - Northwood Investors
 - Oaktree Capital Management
 - OMERS Private Equity
