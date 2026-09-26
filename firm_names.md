@@ -56,9 +56,6 @@
 - Monomoy Capital Partners
 - Morgan Stanley Investment Management
 - New Mountain Capital
-- New York Life
-- North Star Resource Group
-- Northwestern Mutual (Southern California & Nevada)
 - Northwood Investors
 - Oaktree Capital Management
 - OMERS Private Equity
