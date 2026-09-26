@@ -17,6 +17,7 @@
 - BlackRock
 - BNY Investments
 - Canyon Partners, LLC
+- Capital Group
 - Carlyle
 - Causeway Capital Management LLC
 - CenterSquare Investment Management
