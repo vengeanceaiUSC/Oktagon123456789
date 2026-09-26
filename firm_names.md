@@ -53,6 +53,7 @@
 - Man Group (Man AHL)
 - Marathon Asset Management
 - Mariner Wealth Advisors
+- Messari
 - Mission Wealth Management, LP
 - Monomoy Capital Partners
 - Morgan Stanley Investment Management
