@@ -73,6 +73,7 @@
 - Shamrock Capital
 - Sound Point Capital Management, LP
 - Stifel Financial Corp.
+- Susquehanna International Group (SIG)
 - T. Rowe Price
 - TCW
 - The D. E. Shaw Group
@@ -80,6 +81,7 @@
 - The Vanguard Group
 - TPG
 - TruAmerica Multifamily
+- Truist Securities
 - UBS Asset Management
 - Upfront Ventures
 - Viking Global Investors
